@@ -1,0 +1,2 @@
+The project entitled “CRYPTO” is a new messaging technique used for the secure transfer of messages from one person to another.
+This application comprises one main technique called cryptography.This application first encrypts the message using cryptographic algorithm. Then sends encrypted data to the receiver he has the knowledge about the key so he tries to decrypt it. Only the intended receiver will know the key to resolve the encrypted message
